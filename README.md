@@ -8,5 +8,6 @@
 <h3> Technologies </h3>
     - React</br>
     - NodeJS
+    - Typescript
     
    
